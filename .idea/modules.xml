@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../S_Practice/Practice/.idea/Practice.iml" filepath="$PROJECT_DIR$/../S_Practice/Practice/.idea/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python/代理池/ProxyPool/.idea/ProxyPool.iml" filepath="$PROJECT_DIR$/../../python/代理池/ProxyPool/.idea/ProxyPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../S_Practice/maitian/.idea/maitian.iml" filepath="$PROJECT_DIR$/../S_Practice/maitian/.idea/maitian.iml" />
+    </modules>
+  </component>
+</project>
